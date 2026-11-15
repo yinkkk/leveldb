@@ -6,3 +6,7 @@
 # Build directory.
 build/
 out/
+
+# Local learning setup.
+build.log
+compile_commands.json
